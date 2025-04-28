@@ -1,4 +1,4 @@
-![Economic Overview of Indian Staes_page-0002](https://github.com/user-attachments/assets/70e4c1af-3f82-4f91-a112-0acbfe2bfeab)# 📊 Indian States Economic Performance Dashboard (Power BI)
+# 📊 Indian States Economic Performance Dashboard (Power BI)
 
 ## 🎯 Project Objective
 
