@@ -1,4 +1,4 @@
-# 📊 Indian States Economic Performance Dashboard (Power BI)
+# 📊 Analyzing Indian States Economic Performance
 
 ## 🎯 Project Objective
 
